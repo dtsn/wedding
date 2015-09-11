@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>Jade &amp; Daniel - 1st May 2016
+
+        <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+        <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+
+        <script src="https://use.typekit.net/wgo1jkx.js"></script>
+        <script>try{Typekit.load({ async: true });}catch(e){}</script>
+        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false&key=AIzaSyCRovOE0bHJUGxgo5zOhz7I5lN9EX3QsPU"></script>
+    </head>
+    <body>
+
+        <div class="wrapper">
+            <header>
+                <a href="/"><img src="/images/logo.png" alt="Jade &amp; Daniel" height="70px" /></a>
+                <div>Sunday 1st May 2016</div>
+            </header>
+        </div>
+
+        <section>
+            <div class="wrapper">
+                {{ content }}
+            </div>
+        </section>
+
+        {% for section in site.sections %}
+        <section id="{% if section.id %}{{ section.id | downcase | replace:' ','-' }}{% else %}{{ section.title | downcase | replace:' ','-' }}{% endif %}" class="{% if forloop.first %}first{% endif %}">
+    		<div class="wrapper">
+                {{ section.content }}
+            </div>
+        </section>
+        {% endfor %}
+
+  </body>
+</html>

@@ -1,0 +1,145 @@
+
+$mint: #3fb8af;
+$grey: #EFEFEF;
+
+body {
+    color: #1e1e1e;
+    font-family: 'ff-tisa-web-pro';
+    font-size: 16px;
+    line-height: 1.5em;
+    text-align: center;
+}
+
+.wrapper {
+    margin: 0 auto;
+    width: 740px;
+}
+
+header {
+    background: url('/images/bunting.png') no-repeat top center;
+    padding-top: 150px;
+    text-align: center;
+
+
+
+    div {
+        background: white;
+        margin: 0 auto 0;
+        width: 200px;
+        text-align: center;
+        color: $mint;
+        font-size: 18px;
+
+    }
+}
+
+hr {
+    background: $mint;
+    height: 1px;
+    border: 0;
+    margin-top: 30px;
+    clear: both;
+}
+
+h2 {
+    color: $mint;
+    font-size: 16px;
+    font-weight: normal;
+    background: white;
+    margin: -23px auto 20px;
+    width: 200px;
+    text-align: center;
+    color: $mint;
+    font-size: 18px;
+}
+
+section {
+    padding: 15px 0;
+}
+
+.mapwrapper {
+    border: 10px solid $grey;
+    margin: 40px 0 60px;
+}
+
+a {
+    color: $mint;
+    text-decoration: none;
+}
+
+.accom {
+    margin: 0 -10px;
+    overflow: hidden;
+}
+
+.col {
+    box-sizing: border-box;
+    width: 33%;
+    padding: 10px;
+    float: left;
+}
+
+.pound {
+    height: 17px;
+    width: 10px;
+    background: url('/images/pound.png');
+    display: inline-block;
+    margin-right: 2px;
+}
+
+form {
+    text-align: left;
+
+    .row {
+        overflow: hidden;
+        margin-bottom: 10px;
+    }
+
+    .row:last-child {
+        margin-bottom: 0px;
+    }
+
+    label {
+        display: inline-block;
+        width: 170px;
+    }
+
+    input[type="text"] {
+        width: 300px;
+        border: 1px solid #DCDCDC;
+    }
+
+    textarea {
+        width: 734px;
+        border: 1px solid #DCDCDC;
+        margin-top: 10px;
+    }
+
+    .radio {
+
+        input[type="radio"] {
+            margin-right: 10px;
+            margin-left: 1px;
+        }
+
+        label {
+            width: 200px;
+            cursor: pointer;
+        }
+    }
+
+    input[type="submit"] {
+        padding: 10px 20px;
+        background: $mint;
+        border: 0px;
+        color: white;
+    }
+}
+
+.button {
+    text-align: center;
+    display: inline-block;
+    padding: 10px 20px;
+    background: $mint;
+    color: white;
+}

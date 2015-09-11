@@ -4,7 +4,7 @@ title: RSVP
 <hr/>
 ## RSVP
 Please fill in the form below to RSVP. If you need to make any changes after submitting please email [daniel+rsvp@saxil-nielsen.com](mailto:daniel+rsvp@saxil-nielsen.com).
-
+<br/><br/>
 <form action="//formspree.io/daniel+rsvp@saxil-nielsen.com" method="POST">
     <div class="row">
         <label for="name">I/We</label>

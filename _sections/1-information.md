@@ -52,7 +52,7 @@ Berkshire
 <hr/>
 ## Reception
 
-Limited numbers means it's family only for the wedding breakfast however we would love to see you for the ceremony (see above) and on the dance floor. The reception starts at 7:30 for our evening guests and for our day guests please make your way to the venue straight after the ceremony.
+Limited numbers means it's family only for the wedding breakfast however we would love to see you at both the ceremony (see above) and on the dance floor. The evening reception starts at **7:30** with our first dance kicking things off at **8pm**.
 
 The reception is taking place at [Rivervale Barn](http://www.rivervale-barn-weddings.co.uk/).
 
@@ -63,7 +63,7 @@ Yateley,
 Hampshire
 **GU46 7SS**
 
-The reception goes on until 11:45pm, the gates of the venue will be shut at 12am so please make sure your taxi is booked for 11:45.
+The reception goes on until **11:45pm** and the gates of Rivervale will close at Midnight, so guest are kindly ask to leave by then. Cars may be left at Rivervale overnight but must be collected by **10am** the following morning.
 
 <div class="mapwrapper"><div id="rivervale" style="height: 400px; width: 720px;"></div></div>
 
@@ -142,4 +142,11 @@ Rivervale barn is located just minutes away from 3 hotels.
 </div>
 
 Please mention Watts/Saxil-Nielsen/Rivervale for the above prices (excludes Premier Inn).
+
+<hr/>
+##Taxis
+
+Hart Cars: <tel>01276 33333</tel><br/>
+Anytime Cars: <tel>01252 494100</tel>
+
 

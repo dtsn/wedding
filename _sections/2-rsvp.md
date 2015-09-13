@@ -23,7 +23,7 @@ Please fill in the form below to RSVP. If you need to make any changes after sub
         <input type="text" name="guest-number" id="guest-number" />
     </div>
     <div class="row">
-        <label for="dietry">Dietry Requirements</label>
+        <label for="dietry">Dietary Requirements</label>
         <br/>
         <textarea name="dietry"></textarea>
     </div>

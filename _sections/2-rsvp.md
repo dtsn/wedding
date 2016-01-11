@@ -24,9 +24,8 @@ Please fill in the form below to RSVP. If you need to make any changes after sub
         <input type="text" name="guest-number" id="guest-number" />
     </div>
     <div class="row">
-        <label for="dietry">Dietary Requirements</label>
-        <br/>
-        <textarea name="dietry"></textarea>
+        <input type="checkbox" name="church" id="church"/>
+        <label for="church">Will also be at the church</label>
     </div>
     <div class="row" style="text-align: center;">
         <input type="submit" value="Send">

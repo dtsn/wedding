@@ -63,7 +63,7 @@ Yateley,
 Hampshire
 **GU46 7SS**
 
-The reception goes on until **11:45pm** and the gates of Rivervale will close at Midnight, so guest are kindly ask to leave by then. Cars may be left at Rivervale overnight but must be collected by **10am** the following morning.
+The reception goes on until **11:45pm** and the gates of Rivervale will close at Midnight, so guest are kindly asked to leave no later than 12:00am. Cars may be left at Rivervale overnight but must be collected by **10am** the following morning. <a href="#taxi">Need a taxi?</a>
 
 <div class="mapwrapper"><div id="rivervale" style="height: 400px; width: 720px;"></div></div>
 

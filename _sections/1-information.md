@@ -144,7 +144,7 @@ Rivervale barn is located just minutes away from 3 hotels.
 Please mention Watts/Saxil-Nielsen/Rivervale for the above prices (excludes Premier Inn).
 
 <hr/>
-##Taxis
+## Taxis
 
 Hart Cars: <tel>01276 33333</tel><br/>
 Anytime Cars: <tel>01252 494100</tel>
